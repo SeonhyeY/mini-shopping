@@ -1,4 +1,4 @@
-# Shopping
+# [Shopping](https://seonhyey.github.io/shopping/)
 This project is for practicing HTML, CSS, and basic JavaScript
 ## Stacks
 HTML, CSS, Vanilla JavaScript
