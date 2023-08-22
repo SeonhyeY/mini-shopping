@@ -21,6 +21,7 @@ function createHTMLString(item) {
   `;
 }
 
+// Handle button click
 function onButtonClick(event, items) {
   const dataset = event.target.dataset;
   const key = dataset.key;
